@@ -3,7 +3,7 @@
     padding: 0%;
     }
     
-    .cabeçalho{
+.cabeçalho{
     background-color: lemonchiffon;
     color: black;
     display: flex;
@@ -12,7 +12,7 @@
     padding: 24px 0;
     }
     
-    .cabeçalho_imagem{
+.cabeçalho_imagem{
     width: 12%;
     }
     
@@ -20,12 +20,12 @@
     font-size: 50px;
     }
     
-    .cabeçalho_lista_item{
+.cabeçalho_lista_item{
     margin: 25px 0px 25px 0px;
     font-size: 16px;
     }
     
-    .apresentaçao_trabalho{
+.apresentaçao_trabalho{
     background-image: linear-gradient(lemonchiffon, #dd371a);
     display: flex;
     justify-content: space-around;
@@ -33,7 +33,7 @@
     padding: 24px 0;
     }
     
-    .titulo_apresentaçao_trabalho{
+.titulo_apresentaçao_trabalho{
     font-size: 30px;
     }
     
