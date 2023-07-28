@@ -40,3 +40,8 @@
     .imagem_arvore{
     width: 15%;
     }
+
+    .pimenta-biquinho{
+        background-image: linear-gradient(rgb(167, 167, 197), rgb(94, 81, 202));
+
+    }
